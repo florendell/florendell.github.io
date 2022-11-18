@@ -2,7 +2,7 @@
 layout: about
 title: #Flora Rendell-Bhatti
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Biological and Envionmental Sciences</a>. University of Stirling
 
 profile:
   align: right
