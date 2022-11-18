@@ -1,6 +1,6 @@
 ---
 layout: about
-title: #Flora Rendell-Bhatti
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -20,4 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I have a specific interest in the effects of anthropogenic stressors on aquatic ecosystems, in particular quantifying the effects of microplastic contamination on organisms. I strongly believe that scientists must collaborate and merge environmental outreach and education with their research in order to make positive change regarding environmental issues. Experience to date demonstrates a commitment to scientific research, alongside teaching and learning in higher education.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main research interests is in understanding the extent and impacts of microplastic pollution of lamprey larvae, in paticular documenting 
+
+### Eduction 
+<p> I completed 
