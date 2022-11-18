@@ -9,7 +9,7 @@ profile:
   image: flo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 3V3A, Cottrell Building</p>
+    <p>3V3A Cottrell Building</p>
     <p>Biological and Environmental Sciences</p>
     <p>University of Stirling</p>
 
