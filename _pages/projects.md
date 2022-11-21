@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Research
-permalink: florendell.github.io/projects/
-description: A growing collection of your cool projects.
+permalink: /projects/
+description: Take a look at my current and past research projects and collaborations.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
