@@ -4,7 +4,7 @@ title: Research
 permalink: /projects/
 description: Take a look at my current and past research projects and collaborations.
 nav: true
-nav_order: 2
+## nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
