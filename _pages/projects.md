@@ -2,7 +2,8 @@
 layout: page
 title: Research
 permalink: /projects/
-description: Take a look at my current and past research projects and collaborations.
+description: 
+My main research interests are in understanding the extent and impacts of microplastic pollution of freshwater biota, in particular documenting the uptake of microplastics from the environment into lamprey larvae, an important and protected fish species. My previous research includes documenting the developmental toxicity of microplastic leachates on Sea Urchin Larvae. My research and laboratory skills lie in spectral analysis of synthetic particles, isolating microplastics from complex organic matrices and animal husbandry. I am an Associate Fellow of the Higher Education Academy and have worked closely with teaching students alongside my research.
 nav: true
 ## nav_order: 2
 display_categories: [work, fun]
