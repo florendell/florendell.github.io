@@ -6,11 +6,7 @@ img: assets/img/01_Jamie.jpg
 importance: 2
 category: work
 ---
-
-Sail Against Plastic: A collaborative sailing expedition investigating and unveiling unseen pollution in the Arctic ocean. 
-
-This exciting project involved a diverse  group of passionate scientists, environmentalists, photographers, artists and videographers. Brought together through a shared love of the ocean and protecting the natural world, we utilised our collective skills to raise awareness of the hidden threats our oceans are facing.
-
+Effective science communication is a core principle that has always been incredibly important to me. I have developed relationships with local stakeholders in marine plastic pollution and conservation, and recognise the benefit of working closely to achieve common goals. In May 2018 I was successful in receiving a small grant to work with and develop the interdisciplinary Sail Against Plastic Team, at the University of Exeter, Penryn Campus. The funding allowed me to contribute funds for scientific expenses to undertake microplastic research on this island of Spitsbergen, South West Svalbard. The project 'Sail Against Plastic: A collaborative sailing expedition investigating and unveiling unseen pollution in the Arctic ocean', involved a diverse  group of passionate scientists, environmentalists, photographers, artists and videographers. Brought together through a shared love of the ocean and protecting the natural world, we utilised our collective skills to raise awareness of the hidden threats our oceans are facing.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/women.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
