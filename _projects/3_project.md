@@ -2,7 +2,7 @@
 layout: page
 title: LamPi
 description: a project to understand lamprey behviour using Raspberry Pis
-img: assets/img/lampi.png
+img: assets/img/lampi.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
