@@ -45,5 +45,5 @@ urchins (P. lividus)’ at the Station Zoologica Anton Dohrn – Naples.
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+
 </div>
