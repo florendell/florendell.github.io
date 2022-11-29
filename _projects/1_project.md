@@ -10,13 +10,13 @@ Research project at The University of Exeter researching the developmental effec
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2.jpg" title="sea urchin" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/1.jpg" title="sea urchin larvae" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sea_urchins_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sea_urchins_1.jpg" title="microplastic toxicity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -24,7 +24,7 @@ Research project at The University of Exeter researching the developmental effec
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sea_urchin_dev.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sea_urchin_dev.jpg" title="development of *P.lividus* " class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,10 +38,10 @@ urchins (P. lividus)’ at the Station Zoologica Anton Dohrn – Naples.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3.jpg" title="experimental design" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lab.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/lab.jpg" title="microscopy" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
