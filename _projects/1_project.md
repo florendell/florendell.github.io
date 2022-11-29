@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Developmental Toxicity of Microplastics 
-description: 
-img: assets/img/12.jpg
+description: Sea Urchin and Lamprey Larvae
+img: assets/img/1.tif
 importance: 1
 category: work
 ---
@@ -13,7 +13,7 @@ Research project at The University of Exeter researching the developmental effec
         {% include figure.html path="assets/img/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/1.tif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/sea_urchins_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
