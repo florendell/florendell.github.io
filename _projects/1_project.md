@@ -6,21 +6,21 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 ---
-Masters by Research project at The University of Exeter researching the developmental effects of microplastic contamination (publication). Skills included morphological assessment, fluorescent immunohistochemistry, analytical chemistry, FTIR, GC/MS, HPLC, data analysis in RStudio.
+Research project at The University of Exeter researching the developmental effects of microplastic contamination (publication). 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="sea_urchins_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Skills included morphological assessment, fluorescent immunohistochemistry, analytical chemistry, FTIR, GC/MS, HPLC, data analysis in RStudio. Supervision by Dr Eva Jiminez-Guri, University of Exeter.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,13 +28,13 @@ Masters by Research project at The University of Exeter researching the developm
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    This project gave me a strong appreciation for the importance of senstive life stages and understanding the impacts of novel contmaintes on these crucial time points. 
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+ASSEMBLE Plus Transnational Access Programme
+Awarded funding together with Eva Jimenez-Guri to complete the
+project titled ‘The effects of microplastics on the development of sea
+urchins (P. lividus)’ at the Station Zoologica Anton Dohrn – Naples.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
