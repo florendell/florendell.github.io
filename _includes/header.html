@@ -1,5 +1,5 @@
 
-    <header>
+   <header>
 
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
@@ -37,13 +37,11 @@
           <div class="collapse navbar-collapse text-right" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
 
-            {% for page in site.pages %}
-    {% unless page.exclude %}
-       {% if page.title %}
-         <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-       {% endif %}
-    {% endunless %}
-{% endfor %}
+              {%- for page in site.pages -%}
+                {% if page.permalink == '/' %}
+                  {% assign about_title = page.title %}
+                {% endif %}
+              {% endfor %}
 
               <!-- About -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
@@ -52,7 +50,18 @@
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
-                </li>
+              </li>
+              {% if site.blog_nav_title %}
+              <!-- Blog -->
+              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
+                  {%- if page.url contains 'blog' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {%- endif %}
+
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
@@ -72,19 +81,6 @@
                   <a class="dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
                   {%- endif -%}
                   {% endfor %}
-                    
-                   {% if site.blog_name %}
-<!-- Blog -->
-<li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-  <a class="nav-link" href="{{ '/blog/' | relative_url }}">
-    blog
-    {% if page.title == "blog" %}
-    <span class="sr-only">(current)</span>
-    {% endif %}
-  </a>
-</li>
-{% endif %}
-                    
                 </div>
               </li>
               {%- else %}
