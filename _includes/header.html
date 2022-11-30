@@ -37,11 +37,13 @@
           <div class="collapse navbar-collapse text-right" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
 
-              {%- for page in site.pages -%}
-                {% if page.permalink == '/' %}
-                  {% assign about_title = page.title %}
-                {% endif %}
-              {% endfor %}
+            {% for page in site.pages %}
+    {% unless page.exclude %}
+       {% if page.title %}
+         <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+       {% endif %}
+    {% endunless %}
+{% endfor %}
 
               <!-- About -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
