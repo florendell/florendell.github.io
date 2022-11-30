@@ -30,7 +30,7 @@ I have a specific interest in the effects of anthropogenic stressors on aquatic 
 <p> Advance Higher Education Associate Fellowship
 <p> Teaching in Higher Education (LTHE Stage 1 and 2)
 
-### Scientific Outreach 
+### Scientific Outreach: 
 <p> UK Microplastic Network
 <p> BBC Spotlight: Sail Against Plastic
 <p> The Eden Project Invisible Worlds Exhibition: Plastic Pollution
