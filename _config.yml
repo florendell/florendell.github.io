@@ -23,22 +23,6 @@ baseurl:
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
-# Force Jekyll to generate pages in a given order using a predefined list of pages.
-#
-# Just declare a "pages_order" list in _config.yml with the list of pages :
-#
-pages_order: ['About', 'publications', 'projects', 'teaching', 'blog']
-
-# The plugin then exposes in the basename of the previous and next pages with {{page.next}} and {{page.prev}} to be used in layouts :
-
-{% if page.prev %}
-<a id="previous-page" href="{{page.prev}}.html">Previous</a>
-{% endif %}
-
-{% if page.next %}
-<a id="next-page" href="{{page.next}}.html">Next</a>
-{% endif %}
-
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
