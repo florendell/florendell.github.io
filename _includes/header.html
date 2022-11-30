@@ -52,10 +52,19 @@
                 </a>
               </li>
               {% if site.blog_nav_title %}
-              <!-- Blog -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
-                  {%- if page.url contains 'blog' -%}
+              <!-- Projects -->
+              <li class="nav-item {% if page.url contains 'projects' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/projects/' | relative_url }}">{{ site.projects_nav_title }}
+                  {%- if page.url contains 'projects' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {%- endif %}
+                 <!-- Publications-->
+              <li class="nav-item {% if page.url contains 'publications' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/publications/' | relative_url }}">{{ site.publications_nav_title }}
+                  {%- if page.url contains 'publications' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
