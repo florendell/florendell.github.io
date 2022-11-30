@@ -26,6 +26,13 @@ I have a specific interest in the effects of anthropogenic stressors on aquatic 
 <p> 2019 MSc by Research University of Exeter
 <p> 2017 BSc (Hons) Zoology First Class Honours University of Exeter 
 
- 
+### Teaching and Departmental activity:
+<p> Advance Higher Education Associate Fellowship
+<p> Teaching in Higher Education (LTHE Stage 1 and 2)
 
+### Scientific Outreach 
+<p> UK Microplastic Network
+<p> BBC Spotlight: Sail Against Plastic
+<p> The Eden Project Invisible Worlds Exhibition: Plastic Pollution
+<p> The National Maritime Museum Cornwall: Science of the Sea
 
