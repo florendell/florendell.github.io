@@ -27,16 +27,16 @@ I have a specific interest in the effects of anthropogenic stressors on aquatic 
 <p> 2017 BSc (Hons) Zoology First Class Honours University of Exeter 
   
 --- 
-**Selected papers:** 
+Selected papers:
 <p> (*in review*) Rendell-Bhatti, F., Bull,C., Cross, R., Cox, R., Adediran.G., Lahive, E.,2022. From the environment into the biomass: microplastic uptake in a protected Lamprey species
   
 <p> Rendell-Bhatti, F., Paganos, P., Pouch, A., Mitchell, C., D’Aniello, S., Godley, B.J., Pazdro, K., Arnone, M.I. and Jimenez-Guri, E., 2021. Developmental toxicity of plastic leachates on the sea urchin *Paracentrotus lividus*. Environmental Pollution, 269, p.115744.
   
-**Teaching and Departmental activity:**
-<p> Advance Higher Education Associate Fellowship
+Teaching and Departmental activity:
+<p> Associate Fellowship of Higher Education Academy 
 <p> Teaching in Higher Education (LTHE Stage 1 and 2)
 
-**Scientific Outreach:**
+Scientific Outreach:
 <p> UK Microplastic Network
 <p> BBC Spotlight: Sail Against Plastic
 <p> The Eden Project Invisible Worlds Exhibition: Plastic Pollution
