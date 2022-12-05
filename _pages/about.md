@@ -29,10 +29,14 @@ I have a specific interest in the effects of anthropogenic stressors on aquatic 
 --- 
 **Selected papers:**
 <p> (*in review*) Rendell-Bhatti, F., Bull,C., Cross, R., Cox, R., Adediran.G., Lahive, E.,2022. From the environment into the biomass: microplastic uptake in a protected Lamprey species
+
+---
   
 <p> **Teaching and Departmental activity:**
 <p> Associate Fellowship of Higher Education Academy 
 <p> Teaching in Higher Education (LTHE Stage 1 and 2)
+  
+---
 
 <p> **Scientific Outreach:**
 <p> UK Microplastic Network
