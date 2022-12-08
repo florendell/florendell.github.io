@@ -14,7 +14,7 @@ nav_order: 5
 -Teaching in Higher Education (LTHE Stage 1 and 2)
   
 <p> **Scientific Outreach:**
-- UK Microplastic Network
-- BBC Spotlight: Sail Against Plastic
-- The Eden Project Invisible Worlds Exhibition: Plastic Pollution
-- The National Maritime Museum Cornwall: Science of the Sea
++ UK Microplastic Network
++ BBC Spotlight: Sail Against Plastic
++ The Eden Project Invisible Worlds Exhibition: Plastic Pollution
++ The National Maritime Museum Cornwall: Science of the Sea
