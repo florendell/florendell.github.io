@@ -10,6 +10,9 @@ nav_order: 5
 *Univeristy of Stirling* 
 - Associate Fellowship of Higher Education Academy
 
+Modules I teach on: Environmental Policy and Management, Environmental Policy (MSc), Global Environmental Issues, Sustainable Development and Environmental Hazards
+Topics I teach: Air Pollution,sustianable development goals, environmental policy 
+
 *Univeristy of Exeter* 
 * Teaching in Higher Education (LTHE Stage 1 and 2)
 
