@@ -13,8 +13,8 @@ nav_order: 5
 *Univeristy of Exeter* 
 * Teaching in Higher Education (LTHE Stage 1 and 2)
   
-<p> **Scientific Outreach:**
+<p> ## Scientific Outreach:
 + UK Microplastic Network
-- BBC Spotlight: Sail Against Plastic
+* BBC Spotlight: Sail Against Plastic
 - The Eden Project Invisible Worlds Exhibition: Plastic Pollution
-- The National Maritime Museum Cornwall: Science of the Sea
++ The National Maritime Museum Cornwall: Science of the Sea
