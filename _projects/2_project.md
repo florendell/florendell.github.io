@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Sail Againts Plastic
+title: Sail Againt Plastic
 description: A collaborative sailing expedition investigating and unveiling invisible pollution in the Arctic ocean
 img: assets/img/01_Jamie.jpg
 importance: 2
 category: work
 ---
-Effective science communication is a core principle that has always been incredibly important to me. I have developed relationships with local stakeholders in marine plastic pollution and conservation, and recognise the benefit of working closely to achieve common goals. In May 2018 I was successful in receiving a small grant to work with and develop the interdisciplinary Sail Against Plastic Team, at the University of Exeter, Penryn Campus. The funding allowed me to contribute funds for scientific expenses to undertake microplastic research on this island of Spitsbergen, South West Svalbard. The project 'Sail Against Plastic: A collaborative sailing expedition investigating and unveiling unseen pollution in the Arctic ocean', involved a diverse  group of passionate scientists, environmentalists, photographers, artists and videographers. Brought together through a shared love of the ocean and protecting the natural world, we utilised our collective skills to raise awareness of the hidden threats our oceans are facing.
+Effective science communication is a core principle that has always been incredibly important to me. I have developed relationships with local stakeholders in marine plastic pollution and conservation, and recognise the benefit of working closely to achieve common goals. 
+
+<p> In May 2018 I was successful in receiving a small grant to work with and develop the interdisciplinary Sail Against Plastic Team, at the University of Exeter, Penryn Campus. The funding allowed me to contribute funds for a collaborative scientific expenses to undertake microplastic research on this island of Spitsbergen, South West Svalbard. The project 'Sail Against Plastic: A collaborative sailing expedition investigating and unveiling unseen pollution in the Arctic ocean', involved a diverse  group of passionate scientists, environmentalists, photographers, artists and videographers. Brought together through a shared love of the ocean and protecting the natural world, we utilised our collective skills to raise awareness of the hidden threats our oceans are facing.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/women.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -27,13 +29,9 @@ Effective science communication is a core principle that has always been incredi
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+ Through community events, presentations, workshops, beach cleans, film screenings and talks we as a team helped to bring A Message from the Arctic to the UK. 
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+As a team we contributed to the 'Invisible World's' Exhibition at The Eden Project, which included giving a presentation of the expedition and educating children and adults on ‘unseen pollutants’, including what actions they can do to reduce their plastic footprint.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -44,7 +42,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    
 </div>
 
 
