@@ -11,10 +11,10 @@ nav_order: 5
 - Associate Fellowship of Higher Education Academy
 
 *Univeristy of Exeter* 
--Teaching in Higher Education (LTHE Stage 1 and 2)
+* Teaching in Higher Education (LTHE Stage 1 and 2)
   
 <p> **Scientific Outreach:**
 + UK Microplastic Network
-+ BBC Spotlight: Sail Against Plastic
-+ The Eden Project Invisible Worlds Exhibition: Plastic Pollution
-+ The National Maritime Museum Cornwall: Science of the Sea
+- BBC Spotlight: Sail Against Plastic
+- The Eden Project Invisible Worlds Exhibition: Plastic Pollution
+- The National Maritime Museum Cornwall: Science of the Sea
