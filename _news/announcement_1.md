@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-12-09 Collecting lamprey larvae samples to investigate whether there is an affect of lamprey age on microplastic uptake
 inline: true
 ---
 
