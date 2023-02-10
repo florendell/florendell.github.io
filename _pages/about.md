@@ -28,6 +28,6 @@ I have a specific interest in the effects of anthropogenic stressors on aquatic 
   
 --- 
 <p> Selected papers:
-<p> (*in review*) Rendell-Bhatti, F., Bull,C., Cross, R., Cox, R., Adediran.G., Lahive, E.,2022. From the environment into the biomass: microplastic uptake in a protected Lamprey species
+<p> Rendell-Bhatti, F., Bull,C., Cross, R., Cox, R., Adediran.G., Lahive, E.,2022. From the environment into the biomass: microplastic uptake in a protected Lamprey species
 
 
