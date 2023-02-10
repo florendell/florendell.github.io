@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-20 07:59:00-0400
+date: 2023-02-10 07:59:00-0400
 inline: true
 ---
 
-Started a part-time lectureship in Environmental Pollution at The University of Stirling :sparkles: :smile:
+Presented at IFM and Natural England Lamprey Conference in York :sparkles: :smile:
