@@ -27,6 +27,3 @@ I have a specific interest in the effects of anthropogenic stressors on aquatic 
 <p> 2017 BSc (Hons) Zoology First Class Honours University of Exeter 
   
 --- 
-<p> Selected papers:
-<p> Rendell-Bhatti, F., Bull, C., Cross, R., Cox, R., Adediran, G. A., & Lahive, E. (2023). From the environment into the biomass: microplastic uptake in a protected lamprey species. Environmental Pollution, 121267.
-
