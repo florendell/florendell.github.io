@@ -51,9 +51,8 @@ urchins (P. lividus)’ at the Station Zoologica Anton Dohrn – Naples.
 </div>
 
 **Plastics and the Hidden Majority: Conservation Implications for a Threatened UK Freshwater Fish**
-Final year of PhD research investigating microplastic contamination presence and impacts on lamprey, supervised by Dr Colin Bull. All data collection to finish by June 2022, with the remaining data sets to be analysed. Broad understading of envionmental pollutants in UK rivers, environmental sampling, chemical and enzymatic digestions, micro-FTIR, data analysis in RStudio, analysis using Raspberry Pis, developmental toxicity.
-
-</div>
+<p> Final year of PhD research investigating microplastic contamination presence and impacts on lamprey, supervised by Dr Colin Bull. All data collection to finish by June 2022, with the remaining data sets to be analysed. Broad understading of envionmental pollutants in UK rivers, environmental sampling, chemical and enzymatic digestions, micro-FTIR, data analysis in RStudio, analysis using Raspberry Pis, developmental toxicity.
+    
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/.tiff" title="Graphical_abstract_final" class="img-fluid rounded z-depth-1" %}
