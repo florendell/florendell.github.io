@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /projects/
+permalink:/projects/
 description:My research focuses on understanding the extent and impacts of microplastic contamination of freshwater biota, in particular documenting the uptake of microplastics from the environment into lamprey larvae, an important and protected fish species. My previous research includes documenting the developmental toxicity of microplastic leachates on Sea Urchin Larvae. My research and laboratory skills lie in spectral analysis of synthetic particles, isolating microplastics from complex organic matrices and animal husbandry. 
 
 <p> *Research Background and Training*
