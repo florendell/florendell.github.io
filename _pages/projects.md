@@ -17,6 +17,7 @@ description:My research focuses on understanding the extent and impacts of micro
     * Microscopy work includes micro-FTIR, Confocal
     - Aquatic husbandry with sea urchins, lamprey, fish eggs, home office licence
     + GIS ArcGIS/QGIS
+    
 nav: true
 nav_order: 2
 display_categories: [work, fun]
