@@ -7,14 +7,19 @@ nav: true
 nav_order: 5
 ---
 
-*Univeristy of Stirling* 
+*Teaching Quailifcations and Recognition*
 - Associate Fellowship of Higher Education Academy
++ Fellowship of the Higher Education Academy in completion 
 
-Modules I teach on: Environmental Policy and Management, Environmental Policy (MSc), Global Environmental Issues, Sustainable Development and Environmental Hazards
-Topics I teach: Air Pollution,sustianable development goals, environmental policy 
+Modules I have tuaght on: Environmental Policy and Management, Environmental Policy (MSc), Global Environmental Issues, Sustainable Development and Environmental Hazards
+Modules I coordinate: Field Skills (BSc) and Conservation Biology (MSc)
+Topics of expertise include: Envionemntal Pollution, Air Pollution, Sustianable Development Goals, Environmental Policy and Risk Assessment, Conservation Biology and Ecology, Labratory and Field Skills
 
 *Univeristy of Exeter* 
 * Teaching in Higher Education (LTHE Stage 1 and 2)
+
+*Journal Club and active involvement in improving learning and teaching at UoS*
+I have been actively involved in the pedagogical Journal Club, leading a sessions the use of audio and media feedback for students. In this session we critically discussed providing students with audio feedback, including how this relates to equality, diversity, and inclusion and the visions of our teaching at Stirling. 
 
 -----
 *Scientific Outreach:*
@@ -23,3 +28,13 @@ Topics I teach: Air Pollution,sustianable development goals, environmental polic
 - The Eden Project Invisible Worlds Exhibition: Plastic Pollution
 + The National Maritime Museum Cornwall: Science of the Sea
 * BBC Winter Watch: Lamprey and Microplastics Feb 2023
+
+-----
+
+*Awards*
++ Highly commended in the Outstanding Early Career Researcher category at the University of Stirling’s Research Culture Awards 2022
+- Nominated and shortlisted in multiple categories for the 2023 Students’ Union Recognising and Advancing Teaching Excellence (RATE) Awards.
+
+*Conferences*
++ Society of Environmental Toxicology and Chemistry (SETAC) - Platform and Poster presentaitons (Dublin, May 2023)
+- Scottish Freshwater Group Meeting – Platofrm presentaiton (Stirling, April 2023)
