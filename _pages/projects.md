@@ -2,14 +2,14 @@
 layout: page
 title: Research
 permalink: /projects/
-description: My research focuses on understanding the extent and impacts of microplastic contamination of freshwater biota, in particular documenting the uptake of microplastics from the environment into lamprey larvae, an important and protected fish species. My previous research includes documenting the developmental toxicity of microplastic leachates on Sea Urchin Larvae. My research and laboratory skills lie in spectral analysis of synthetic particles, isolating microplastics from complex organic matrices and animal husbandry. 
+description:My research focuses on understanding the extent and impacts of microplastic contamination of freshwater biota, in particular documenting the uptake of microplastics from the environment into lamprey larvae, an important and protected fish species. My previous research includes documenting the developmental toxicity of microplastic leachates on Sea Urchin Larvae. My research and laboratory skills lie in spectral analysis of synthetic particles, isolating microplastics from complex organic matrices and animal husbandry. 
 
 <p> *Research Background and Training*
   + Microplastic analysis applying micro-FTIR imaging, ATR-FTIR and other techniques (Aalborg University, Department of Civil Engineering)
   - Adverse Outcome Pathways in Environmental Toxicology practical applications, methods and challenges (Norwegian University of Science and Technology)
   * Creative Technologies Upskilling Module (Dundee Univeristy)
   + Electrofishing training 
-  + Scottish Accreditation Board: Home Office Personal Licence (March 2021) in Marine and Freshwater Fish 
+  + Scottish Accreditation Board Home Office Personal Licence (March 2021) in Marine and Freshwater Fish 
   * Communicating Scientific Research 
   
   <p> *Key research competencies*
