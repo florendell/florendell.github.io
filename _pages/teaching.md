@@ -21,7 +21,7 @@ nav_order: 5
 + Field Skills (BSc)
 + Conservation Biology (MSc)
 
-<p>*Topics of expertise*
+*Topics of expertise*
 + Environmental Pollution
 - Air Pollution
 - Sustainable Development Goals
