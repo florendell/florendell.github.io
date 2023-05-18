@@ -20,7 +20,8 @@ nav_order: 5
 *Modules I coordinate* 
 + Field Skills (BSc)
 + Conservation Biology (MSc)
-*Topics of expertise*
+
+<p>*Topics of expertise*
 + Environmental Pollution
 - Air Pollution
 - Sustainable Development Goals
@@ -29,7 +30,7 @@ nav_order: 5
 - Laboratory and Field Skills
 
 *Active involvement in improving learning and teaching at UoS*
-<p> I have been actively involved in the pedagogical Journal Club, leading a sessions the use of audio and media feedback for students. In this session we critically discussed providing students with audio feedback, including how this relates to equality, diversity, and inclusion and the visions of our teaching at Stirling. 
+I have been actively involved in the pedagogical Journal Club, leading a sessions the use of audio and media feedback for students. In this session we critically discussed providing students with audio feedback, including how this relates to equality, diversity, and inclusion and the visions of our teaching at Stirling. 
   
 *Scientific Outreach:*
 + UK Microplastic Network
