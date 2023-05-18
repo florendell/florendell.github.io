@@ -6,7 +6,9 @@ img: assets/img/1.jpg
 importance: 1
 category: work
 ---
-Research project at The University of Exeter researching the developmental effects of microplastic contamination (publication). 
+
+**Ecotoxicology research documenting the impacts of micropalstic contmanination on sea urchin larvae**
+Masters by Research project at The University of Exeter focused on researching the developmental effects of microplastic contamination (*publication*). 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,7 +22,7 @@ Research project at The University of Exeter researching the developmental effec
     </div>
 </div>
 <div class="caption">
-    Skills included morphological assessment, fluorescent immunohistochemistry, analytical chemistry, FTIR, GC/MS, HPLC, data analysis in RStudio. Supervision by Dr Eva Jiminez-Guri, University of Exeter.
+    Key skills included morphological assessment, fluorescent immunohistochemistry, analytical chemistry, FTIR, GC/MS, HPLC, data analysis in RStudio. Supervision by Dr Eva Jiminez-Guri, University of Exeter.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,4 +48,18 @@ urchins (P. lividus)’ at the Station Zoologica Anton Dohrn – Naples.
 </div>
 <div class="caption">
 
+</div>
+
+**Plastics and the Hidden Majority: Conservation Implications for a Threatened UK Freshwater Fish**
+Final year of PhD research investigating microplastic contamination presence and impacts on lamprey, supervised by Dr Colin Bull. All data collection to finish by June 2022, with the remaining data sets to be analysed. Broad understading of envionmental pollutants in UK rivers, environmental sampling, chemical and enzymatic digestions, micro-FTIR, data analysis in RStudio, analysis using Raspberry Pis, developmental toxicity.
+
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/.tiff" title="Graphical_abstract_final" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    
+    
 </div>
