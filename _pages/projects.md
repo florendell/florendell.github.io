@@ -3,6 +3,11 @@ layout:page
 title:Research
 permalink:/projects/
 description:My research focuses on understanding the extent and impacts of microplastic contamination of freshwater biota, in particular documenting the uptake of microplastics from the environment into lamprey larvae, an important and protected fish species. My previous research includes documenting the developmental toxicity of microplastic leachates on Sea Urchin Larvae. My research and laboratory skills lie in spectral analysis of synthetic particles, isolating microplastics from complex organic matrices and animal husbandry. 
+nav: true
+nav_order: 2
+display_categories: [work, fun]
+horizontal: false
+---
 
 <p> *Research Background and Training*
   + Microplastic analysis applying micro-FTIR imaging, ATR-FTIR and other techniques (Aalborg University, Department of Civil Engineering)
@@ -17,12 +22,6 @@ description:My research focuses on understanding the extent and impacts of micro
     * Microscopy work includes micro-FTIR, Confocal
     - Aquatic husbandry with sea urchins, lamprey, fish eggs, home office licence
     + GIS ArcGIS/QGIS
-    
-nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
----
 
 <!-- pages/projects.md -->
 <div class="projects">
