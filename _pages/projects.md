@@ -18,10 +18,10 @@ horizontal: false
   * Communicating Scientific Research 
   
   *Key research competencies*
-    + Statisical coding in R studio, Python with applications to Raspberry Pis and Arduino
-    * Microscopy work includes micro-FTIR, Confocal
-    - Aquatic husbandry with sea urchins, lamprey, fish eggs, home office licence
-    + GIS ArcGIS/QGIS
+  + Statisical coding in R studio, Python with applications to Raspberry Pis and Arduino
+  * Microscopy work includes micro-FTIR, Confocal
+  - Aquatic husbandry with sea urchins, lamprey, fish eggs, home office licence
+  - GIS ArcGIS/QGIS
 
 <!-- pages/projects.md -->
 <div class="projects">
