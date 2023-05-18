@@ -19,7 +19,6 @@ Modules I have taught on: Environmental Policy and Management, Environmental Pol
 <p> I have been actively involved in the pedagogical Journal Club, leading a sessions the use of audio and media feedback for students. In this session we critically discussed providing students with audio feedback, including how this relates to equality, diversity, and inclusion and the visions of our teaching at Stirling. 
   
 <p>
------
 *Scientific Outreach:*
 + UK Microplastic Network
 * BBC Spotlight: Sail Against Plastic
