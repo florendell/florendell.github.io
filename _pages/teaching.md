@@ -16,7 +16,7 @@ Modules I have taught on: Environmental Policy and Management, Environmental Pol
 <p> Topics of expertise include: Environmental Pollution, Air Pollution, Sustainable Development Goals, Environmental Policy and Risk Assessment, Conservation Biology and Ecology, Laboratory and Field Skills
 
 *Active involvement in improving learning and teaching at UoS*
-I have been actively involved in the pedagogical Journal Club, leading a sessions the use of audio and media feedback for students. In this session we critically discussed providing students with audio feedback, including how this relates to equality, diversity, and inclusion and the visions of our teaching at Stirling. 
+<p> I have been actively involved in the pedagogical Journal Club, leading a sessions the use of audio and media feedback for students. In this session we critically discussed providing students with audio feedback, including how this relates to equality, diversity, and inclusion and the visions of our teaching at Stirling. 
   
 *Scientific Outreach:*
 + UK Microplastic Network
