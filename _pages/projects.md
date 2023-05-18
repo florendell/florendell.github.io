@@ -6,7 +6,7 @@ description: My research focuses on understanding the extent and impacts of micr
 
 <p> *Research Background and Training*
   + Microplastic analysis applying micro-FTIR imaging, ATR-FTIR and other techniques (Aalborg University, Department of Civil Engineering)
-  - Adverse Outcome Pathways in Environmental Toxicology: practical applications, methods and challenges (Norwegian University of Science and Technology)
+  - Adverse Outcome Pathways in Environmental Toxicology practical applications, methods and challenges (Norwegian University of Science and Technology)
   * Creative Technologies Upskilling Module (Dundee Univeristy)
   + Electrofishing training 
   + Scottish Accreditation Board: Home Office Personal Licence (March 2021) in Marine and Freshwater Fish 
