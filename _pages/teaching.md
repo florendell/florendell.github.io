@@ -7,17 +7,18 @@ nav: true
 nav_order: 5
 ---
 
-*Teaching Quailifcations and Recognition*
+*Teaching Qualifications and Recognition*
 - Associate Fellowship of Higher Education Academy
 + Fellowship of the Higher Education Academy in completion 
 
-Modules I have tuaght on: Environmental Policy and Management, Environmental Policy (MSc), Global Environmental Issues, Sustainable Development and Environmental Hazards
+Modules I have taught on: Environmental Policy and Management, Environmental Policy (MSc), Global Environmental Issues, Sustainable Development and Environmental Hazards
 <p> Modules I coordinate: Field Skills (BSc) and Conservation Biology (MSc)
-<p> Topics of expertise include: Envionemntal Pollution, Air Pollution, Sustianable Development Goals, Environmental Policy and Risk Assessment, Conservation Biology and Ecology, Labratory and Field Skills
+<p> Topics of expertise include: Environmental Pollution, Air Pollution, Sustainable Development Goals, Environmental Policy and Risk Assessment, Conservation Biology and Ecology, Laboratory and Field Skills
 
 <p> *Journal Club and active involvement in improving learning and teaching at UoS*
 <p> I have been actively involved in the pedagogical Journal Club, leading a sessions the use of audio and media feedback for students. In this session we critically discussed providing students with audio feedback, including how this relates to equality, diversity, and inclusion and the visions of our teaching at Stirling. 
-
+  
+<p>
 -----
 *Scientific Outreach:*
 + UK Microplastic Network
