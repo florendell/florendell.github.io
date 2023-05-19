@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 4
-description: another without an image
+description: Analysis of Microplastics in a Protected Lamprey Species
 img:
 importance: 3
 category: fun
