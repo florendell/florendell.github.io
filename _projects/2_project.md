@@ -11,7 +11,7 @@ Effective science communication is a core principle that has always been incredi
 <p> In May 2018 I was successful in receiving a grant to work with and develop the interdisciplinary Sail Against Plastic Team, at the University of Exeter, Penryn Campus. The funding allowed me to contribute funds for a collaborative scientific expenses to undertake microplastic research on this island of Spitsbergen, South West Svalbard. The project 'Sail Against Plastic: A collaborative sailing expedition investigating and unveiling unseen pollution in the Arctic ocean', involved a diverse  group of passionate scientists, environmentalists, photographers, artists and videographers. Brought together through a shared love of the ocean and protecting the natural world, we utilised our collective skills to raise awareness of the hidden threats our oceans are facing.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/women.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/plastic2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/BJP_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
