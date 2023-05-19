@@ -3,8 +3,8 @@ layout: page
 title: Sail Againt Plastic
 description: A collaborative sailing expedition investigating and unveiling invisible pollution in the Arctic ocean
 img: assets/img/01_Jamie.jpg
-importance: 2
-category: work
+importance: 4
+category: fun
 ---
 Effective science communication is a core principle that has always been incredibly important to me. I have developed relationships with local stakeholders in marine plastic pollution and conservation, and recognise the benefit of working closely to achieve common goals. 
 
