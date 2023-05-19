@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: Microplastics in Freshwater Habitats 
 description: Analysis of Microplastics in a Protected Lamprey Species
 img: assets/img/graphical_abstract.jpg
 importance: 3
