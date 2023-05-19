@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sail Againt Plastic
+title: Sail Against Plastic
 description: A collaborative sailing expedition investigating and unveiling invisible pollution in the Arctic ocean
 img: assets/img/01_Jamie.jpg
 importance: 4
