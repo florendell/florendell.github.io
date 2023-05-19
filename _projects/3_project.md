@@ -6,19 +6,7 @@ img: assets/img/lampi.jpg
 importance: 3
 category: work
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+To effectively monitor the behaviour of ammocetes in laboratory aquaria, with minimal disturbance, a video surveillance system was set up adopting the use of Raspberry Pis and infrared cameras. This low-cost system allowed the any emergence and burrowing behaviour from the sediment during both the day and night hours, using both video and image time-lapse. Furthermore, the Raspberry Pi set up allows the detection of larvae to be automated, removing human bias and the need for extended periods of time to monitor the video.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
