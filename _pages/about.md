@@ -2,28 +2,26 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Biological and Environmental Sciences</a>.University of Stirling
+subtitle: <a href='#'>Biodiviersty, Wildlife and Ecosystem Health </a>.University of Edinbrugh
 
 profile:
   align: right
   image: flo.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p> 4B160 Cottrell Building</p>
-    <p> Biological and Environmental Sciences</p>
-    <p> University of Stirling</p>
-    <p> Stirling, Scotland </p>
+  address:
+    <p> University of Edinbrugh</p>
+    <p> Scotland </p>
 
 news: false includes a list of news items
 selected_papers: false includes a list of papers marked as "selected={true}"
 social: true includes social icons at the bottom of the page
 ---
-I am a Lecturer in Environmental Pollution at The University of Stirling, and in the final stages of a NERC IAPETUS funded PhD investigating the occurrence and impacts of microplastic contamination on threatened lamprey populations in Scotland.
+I am currently a Teaching Fellow on the MSc Biodiversity, Wildlife and Ecosystem Health at the Univeristy of Edinbrugh. Prior to this I was a Lecturer in Environmental Pollution at The University of Stirling. I have completed a a NERC IAPETUS funded PhD investigating the occurrence and impacts of microplastic contamination on threatened lamprey populations in Scotland.
 
 I am an ecotoxicologist with a specific interest in the effects of anthropogenic stressors on aquatic ecosystems, in particular quantifying the effects of microplastic contamination on organisms. I strongly believe that scientists must collaborate and merge environmental outreach and education with their research in order to make positive change regarding environmental issues. Experience to date demonstrates a commitment to scientific research, alongside teaching and learning in higher education.
 
 **Education:** 
-<p> 2023 PhD in Aquatic Ecotoxicology (in completion) University of Stirling
+<p> 2023 PhD in Aquatic Ecotoxicology University of Stirling
 <p> 2019 MSc by Research Aquatic Ecotoxicology University of Exeter
 <p> 2017 BSc (Hons) Zoology First Class Honours University of Exeter
 
