@@ -9,7 +9,7 @@ nav_order: 5
 
 *Teaching Qualifications and Recognition*
 - Associate Fellowship of Higher Education Academy
-+ Fellowship of the Higher Education Academy in completion 
++ Fellowship of the Higher Education Academy
 
 *Modules I have taught on* 
 - Environmental Policy and Management
@@ -17,7 +17,7 @@ nav_order: 5
 + Global Environmental Issues
 + Sustainable Development
 + Environmental Hazards
-*Modules I coordinate* 
+*Modules I have coordinated* 
 + Field Skills (BSc)
 + Conservation Biology (MSc)
 
@@ -29,7 +29,7 @@ nav_order: 5
 - Conservation Biology and Ecology
 * Laboratory and Field Skills
 
-**Active involvement in improving learning and teaching at UoS**
+**Active involvement in improving learning and teaching**
 I have been actively involved in the pedagogical Journal Club, leading a sessions the use of audio and media feedback for students. In this session we critically discussed providing students with audio feedback, including how this relates to equality, diversity, and inclusion and the visions of our teaching at Stirling. 
   
 *Scientific Outreach:*
