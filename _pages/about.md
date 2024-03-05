@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Biodiviersty, Wildlife and Ecosystem Health </a>.University of Edinbrugh
 
 profile:
   align: right
