@@ -7,10 +7,7 @@ profile:
   align: right
   image: flo.jpg
   image_circular: false # crops the image to make it circular
-
-news: false includes a list of news items
-selected_papers: false includes a list of papers marked as "selected={true}"
-social: true includes social icons at the bottom of the page
+  
 ---
 I am currently a Teaching Fellow on the MSc Biodiversity, Wildlife and Ecosystem Health at the Univeristy of Edinbrugh. Prior to this I was a Lecturer in Environmental Pollution at The University of Stirling. I have completed a a NERC IAPETUS funded PhD investigating the occurrence and impacts of microplastic contamination on threatened lamprey populations in Scotland.
 
